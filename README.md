@@ -88,7 +88,7 @@ Ask someone in your team's channel to review your work.
 
  
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d52265e-945c-48a3-8f28-7746c0dee8d1/github-ready-pr.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d52265e-945c-48a3-8f28-7746c0dee8d1/github-ready-pr.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d52265e-945c-48a3-8f28-7746c0dee8d1/github-ready-pr.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d52265e-945c-48a3-8f28-7746c0dee8d1%2Fgithub-ready-pr.png?table=block&id=78bb91a2-f594-47e0-8d95-db2d3b7ea605&width=1560&userId=eb1173b7-8514-41fd-8b4e-35da4a4051f9&cache=v2)
 
 The team will then be notified of the PR and they can begin a review before merging it to the `main` branch.
 
@@ -98,7 +98,7 @@ Tip: Follow the team policy regarding the number of reviewers required before me
 
 If there are no conflicts to be resolved in the code choose `Rebase and merge` or `Squash and merge` from the `Merge` button.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/965d34e2-2e61-4994-926b-8fe6843d2194/github-merge.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/965d34e2-2e61-4994-926b-8fe6843d2194/github-merge.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/965d34e2-2e61-4994-926b-8fe6843d2194/github-merge.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F965d34e2-2e61-4994-926b-8fe6843d2194%2Fgithub-merge.png?table=block&id=73c7615d-1fa1-4e06-8ac1-a947a1903ec9&width=1760&userId=eb1173b7-8514-41fd-8b4e-35da4a4051f9&cache=v2)
 
 If you find yourself with a merge conflict, there are a number of ways to solve it. The Github tools are very handy. You can also do it locally. When going down the local path, there is a good set of instructions [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges).
 

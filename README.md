@@ -68,7 +68,7 @@ Now you have a branch to make all your awesome commits to!
 
 Github created pull request drafts so that notifications will be turned off by default until you decide you are ready for review.  
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87c9c898-bd08-4647-81a8-570abffd7680/draftPR.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87c9c898-bd08-4647-81a8-570abffd7680/draftPR.gif)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87c9c898-bd08-4647-81a8-570abffd7680/draftPR.gif](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/87c9c898-bd08-4647-81a8-570abffd7680/draftPR.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210419%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210419T195943Z&X-Amz-Expires=86400&X-Amz-Signature=e2d891ee619da1a7e7c932bc4dab60251774934ba331202d301c9f67be85f5d5&X-Amz-SignedHeaders=host)
 
 ## We have lift off!   🚀
 

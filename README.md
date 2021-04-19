@@ -10,7 +10,7 @@ You must use `main` as your primary branch, which is the default when creating a
 
 - Branching from the branches other than the `main` branch can create opportunities for merge conflicts.
 
-![xkcd comic strip](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34cad8a0-ac49-47de-b709-a007dd8fef51/git_comic.png)
+![xkcd comic strip](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F34cad8a0-ac49-47de-b709-a007dd8fef51%2Fgit_comic.png?table=block&id=c2e18cb4-b075-4f9b-babf-9f681406f5f4&width=670&userId=eb1173b7-8514-41fd-8b4e-35da4a4051f9&cache=v2)
 
 ## 2. Feature Branch Naming
 

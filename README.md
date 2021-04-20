@@ -1,5 +1,5 @@
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://github.com/rockyFierro/build_week_41921/blob/main/contributer_covenant.md)
 
 
 # Git MVP

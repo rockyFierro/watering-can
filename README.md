@@ -1,8 +1,15 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://github.com/rockyFierro/build_week_41921/blob/main/contributer_covenant.md)
 
+[Role Descriptions](https://www.notion.so/Build-Week-Rubrics-Role-Descriptions-c87f7874897d4495932458e2b12bdfb2)
 
+[Trello 101](https://trello.com/en-US/guide/trello-101)
 
+[Github Project Boards](https://docs.github.com/en/github/managing-your-work-on-github/managing-project-boards)
+
+[Using Github Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
+
+[Documentation](https://github.com/rockyFierro/watering-can/wiki)
 
 # Git MVP
 

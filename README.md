@@ -1,7 +1,7 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://github.com/rockyFierro/build_week_41921/blob/main/contributer_covenant.md)
 
-)
+
 
 
 # Git MVP
@@ -112,91 +112,3 @@ Your code changes are now on the `main` branch, ready to *wow!* users with your 
 Deploy your code (if not otherwise handled by Github Events) and be ready to support and address any issues that arise.
 
 In order to invite your team to your new Github organization, you will need their Github usernames. 
-
-
-
-
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////////////////////////////////////        GITHUB ORGANIZATION
-/////////////////////////////////////////////////////////////////////////////////////////////////
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-## 1. Create the Github Organization
-
-You will create the Github organization that the team will work with for their Build Week project. 
-
-Once you have logged into your Github account, click the `+` button and select `New Organization` in the top-right corner of the homepage. 
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc57183c-653e-4bbf-a835-22e7b47bcd52/github_free.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc57183c-653e-4bbf-a835-22e7b47bcd52/github_free.png)
-
-Choose the "free" tier for you organization.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/235b110a-a1c1-4b5d-9bfd-811335917f56/Screen_Shot_2020-04-22_at_12.09.13_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/235b110a-a1c1-4b5d-9bfd-811335917f56/Screen_Shot_2020-04-22_at_12.09.13_PM.png)
-
-Creating a new organization on your account.
-
-Select the `Free` plan. 
-
-You will now choose the name for your Github organization. Use the convention `Build Week <Project Name>` and specify the organization belongs to `My personal account`.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4a11b3d-4168-4908-bf34-b72fae930dfd/Screen_Shot_2020-04-22_at_12.11.11_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4a11b3d-4168-4908-bf34-b72fae930dfd/Screen_Shot_2020-04-22_at_12.11.11_PM.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5bf8c32c-6d5f-419d-82ab-418fc2adbca8/skip_this_step.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5bf8c32c-6d5f-419d-82ab-418fc2adbca8/skip_this_step.png)
-
-After you complete this step, you will be prompted to invite additional members. Skip this for now- you will be inviting people shortly and will be able to adjust their default permissions at the same time.
-
-## 2. Create your first repository
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dee5b62c-d2be-4949-894f-f70da7daf4e8/create_new.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dee5b62c-d2be-4949-894f-f70da7daf4e8/create_new.png)
-
-Creating a new repository.
-
-Now that you've established the organization, you will need to create individual repos. 
-
-Let's create a new repository for the front end. Note that we will repeat this process for the back end.
-
-Specify the repo name. In this case, we will choose `front-end`. By default, repositories will be set to `private` but we will switch this to `public`. Select `initialize this repository with a README` and make sure to select an `MIT License`.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3273b62e-e980-42dd-b136-342d046aab07/create_new_repo.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3273b62e-e980-42dd-b136-342d046aab07/create_new_repo.png)
-
-Specifying the details of your new repository.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ef199e6-02a8-41c8-9626-a6d8a2f6667d/settings.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ef199e6-02a8-41c8-9626-a6d8a2f6667d/settings.png)
-
-The newly-created repository.
-
-Once you have finished creating your repository, head over into the `settings`.
-
-From there, we will select `Branches` and click on `Add rules`.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c76990ab-d6f2-4c06-8a2e-bf2139f7dac1/branch.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c76990ab-d6f2-4c06-8a2e-bf2139f7dac1/branch.png)
-
-Manage the branch settings.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a46a02d-ace4-4f3f-9c26-34be4733f395/branch_2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a46a02d-ace4-4f3f-9c26-34be4733f395/branch_2.png)
-
-Modifying the front end branch protections.
-
-Now we will modify some details on the `front end` branch. 
-
-First, name the branch name pattern to `main`. 
-
-Next, enable `Require pull request reviews before merging` and specify the `Required approving reviews` to 1, so as to ensure a minimum of one team member will have to approve a pull request before it can be merged into `main`. 
-
-When these have been set, click on the `Create` button below.
-
-You will have to repeat this process to establish all of your other repositories, i.e. `backend`, `DS`, etc.
-
-## 3. Invite the team to the repository
-
-Now that we have created the repositories, you will begin to invite our team members. Make sure to invite your team to each repository, so as to ensure access across the organization.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfaf1119-ab87-48f2-b227-ba411008f147/Screen_Shot_2020-04-22_at_12.21.37_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfaf1119-ab87-48f2-b227-ba411008f147/Screen_Shot_2020-04-22_at_12.21.37_PM.png)
-
-The Manage Access settings in the front end repo.
-
-Back in the repository settings, select `Manage access` from the left-hand menu and click on `Invite teams or people`.
-
-Provide the names of your team members and give them each `Admin` access.

@@ -22,7 +22,7 @@ const valueErrors = {
 
 //state and schema stuff
 
-
+function SignupForm(){
 const formSchema = yup.object().shape({
   name: yup.string().required('Please enter your name').min(5, 'Name must be at least 5 characters long'),
   email: yup.string().required('Must be a valid email'),
@@ -131,8 +131,11 @@ pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"/>
       class="signupbtn">Sign Up</button>
     </div>
   </div>
-</form>)
+</form>)}
 
 
 //const FormStyle = styled.div ``
 //styling can be figured out last.
+
+
+export default SignupForm

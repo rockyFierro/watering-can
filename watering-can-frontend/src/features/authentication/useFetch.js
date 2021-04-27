@@ -1,8 +1,8 @@
 
 export const fetchAPI = () => {
 
-  const baseUrl = "https://water-my-plants-node.herokuapp.com/";
-  const request = new Request(
+  const baseUrl = `https://water-my-plants-node.herokuapp.com`;
+  const getRequest = new Request(
     baseUrl,
     {
       method: 'GET',
@@ -10,7 +10,14 @@ export const fetchAPI = () => {
     }
   )
 
-  fetch(request)
+  const postRequest = new Request(
+    baseUrl,
+    {
+      method: 'POST',
+      mode: 'cors'
+    }
+  )
+  fetch(getRequest)
     .then(
       response => response.json()
     )

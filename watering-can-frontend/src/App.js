@@ -1,6 +1,6 @@
 import './App.css';
 import { useEffect } from 'react';
-import { fetchAPI } from './features/authentication/useFetch';
+import { fetchAPI } from './features/authentication/fetchAPI';
 
 // import axios from 'axios';
 

@@ -11,6 +11,7 @@ export const fetchAPI = () => {
   )
 
   const postRequest = new Request(
+    //TODO: add token auth to post, push to sessionStorage
     baseUrl,
     {
       method: 'POST',

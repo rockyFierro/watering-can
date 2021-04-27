@@ -45,6 +45,7 @@ const postNewUser = (newUser) => {
     console.log(err);
   });
 }
+
 const onSubmit = (e) => {
   e.preventDefault();
  postNewUser(signUpValues)

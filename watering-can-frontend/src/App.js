@@ -1,7 +1,7 @@
 import './App.css';
 import { useEffect } from 'react';
-import { fetchAPI } from './features/authentication/fetchAPI';
-
+import { fetchAPI } from './features/authentication/util/fetchAPI';
+import { Login } from './features/authentication/login/Login.js'
 // import axios from 'axios';
 
 
@@ -12,12 +12,12 @@ function App() {
   const login = '/api/auth/login'
 
   useEffect(() => {
-    fetchAPI()
+    fetchAPI(login)
   }, [])
 
   return (
     <div className="App">
-
+      <Login/>
     </div>
   );
 }

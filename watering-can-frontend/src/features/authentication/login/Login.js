@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import {TextField, Button} from '@material-ui/core';
 
 export const Login = (props) => {
   const [changes, setChanges] = useState({
@@ -15,24 +16,23 @@ export const Login = (props) => {
 
   return (
     <form>
-      <fieldset>
-        <label htmlFor="name">
+        <TextField id="standard-outlined" label="name" size="small">
           <input type="text"
             name="name"
             onChange={handleChanges}
             value={changes.name}
             placeholder="username"
           />
-        </label>
-        <label htmlFor="password">
+        </TextField>
+        <TextField id="standard-outlined" label="password" size="small">
           <input type="text"
             name="password"
             value={changes.password}
             onChange={handleChanges}
             placeholder="password"
           />
-        </label>
-      </fieldset>
+        </TextField>
+          <Button color="primary" variant="contained">login</Button>
     </form>
   )
 }
